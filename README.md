@@ -6,7 +6,9 @@
 
 ---
 
-Senior Software Engineer at **Ripple**. Deep into distributed AI agents, multi-agent orchestration, and agentic workflows
+### Senior Software Engineer @ **Ripple**
+
+Deep into distributed AI agents, multi-agent orchestration, and agentic workflows
 
 I build with autonomous AI systems as a core part of my engineering process.
 
