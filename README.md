@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**JiggyJinjo/JiggyJinjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/JiggyJinjo">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Alexandre+Ducarne;Orchestrating+distributed+AI+agent+workflows" alt="Typing SVG" />
+</a>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Senior Software Engineer at **Ripple**. Deep into distributed AI agents, multi-agent orchestration, and agentic workflows
+
+I build with autonomous AI systems as a core part of my engineering process.
+
+<br>
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/JiggyJinjo/svg)](https://tokscale.ai/u/JiggyJinjo)
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-ducarne-115a4a198/)
+
+</div>
