@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/JiggyJinjo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Alexandre+Ducarne;Orchestrating+distributed+AI+agent+workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Alexandre+Ducarne;Orchestrating+distributed+AI+agent+workflows" alt="Typing SVG" />
 </a>
 
 ---
