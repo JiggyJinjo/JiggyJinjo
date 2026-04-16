@@ -12,6 +12,8 @@ Deep into distributed AI agents, multi-agent orchestration, and agentic workflow
 
 I build with autonomous AI systems as a core part of my engineering process.
 
+---
+
 <br>
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/JiggyJinjo/svg)](https://tokscale.ai/u/JiggyJinjo)
